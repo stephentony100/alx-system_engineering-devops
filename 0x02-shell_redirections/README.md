@@ -1,2 +1,2 @@
-Preparing one
 #!/bin/bash
+Preparing one
